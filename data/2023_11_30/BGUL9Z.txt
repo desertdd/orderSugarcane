@@ -16,20 +16,20 @@ SubscribeInfo = title=新世界互联订阅信息, content=上传流量：0.11GB
 # Surfboard 的服务器和策略组配置方式与 Surge 类似, 可以参考 Surge 的规则配置手册: https://manual.nssurge.com/
 
 [Proxy]
-剩余流量：976.7 GB=vmess,.xsjhl.xyz,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:akus1.xsjhl.xyz 
-距离下次重置剩余：2 天=vmess,.xsjhl.xyz,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:akus1.xsjhl.xyz 
-套餐到期：2025-06-24=vmess,.xsjhl.xyz,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:akus1.xsjhl.xyz 
-官网1：xsj520.top=vmess,.xsjhl.xyz,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:akus1.xsjhl.xyz 
-官网2：xsjhl.xyz=vmess,.xsjhl.xyz,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:akus1.xsjhl.xyz 
+剩余流量：976.7 GB=vmess,xsj520.top,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:akus1.xsjhl.xyz 
+距离下次重置剩余：2 天=vmess,xsj520.top,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:akus1.xsjhl.xyz 
+套餐到期：2025-06-24=vmess,xsj520.top,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:akus1.xsjhl.xyz 
+官网1：xsj520.top=vmess,xsj520.top,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:akus1.xsjhl.xyz 
+官网2：xsjhl.xyz=vmess,xsj520.top,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:akus1.xsjhl.xyz 
 do美国1=vmess,xsjhl.xyz,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:us1.xsjhl.xyz 
 do美国2=vmess,xsjhl.xyz,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:us1.xsjhl.xyz 
 do美国3=vmess,xsjhl.xyz,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:us1.xsjhl.xyz 
-pq香港1=vmess,.xsjhl.xyz,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:pqhk.xsjhl.xyz 
-pq香港2=vmess,.xsjhl.xyz,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:pqhk.xsjhl.xyz 
-pq香港3=vmess,.xsjhl.xyz,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:pqhk.xsjhl.xyz 
-pq日本1-解锁=vmess,.xsjhl.xyz,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:pqrb.xsjhl.xyz 
-pq日本2-解锁=vmess,.xsjhl.xyz,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:pqrb.xsjhl.xyz 
-pq日本3-解锁=vmess,.xsjhl.xyz,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:pqrb.xsjhl.xyz 
+pq香港1=vmess,xsj520.top,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:pqhk.xsjhl.xyz 
+pq香港2=vmess,xsj520.top,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:pqhk.xsjhl.xyz 
+pq香港3=vmess,xsj520.top,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:pqhk.xsjhl.xyz 
+pq日本1-解锁=vmess,xsj520.top,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:pqrb.xsjhl.xyz 
+pq日本2-解锁=vmess,xsj520.top,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:pqrb.xsjhl.xyz 
+pq日本3-解锁=vmess,xsj520.top,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:pqrb.xsjhl.xyz 
 do英国1-解锁=vmess,xsjhl.xyz,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:doyg.xsjhl.xyz 
 do英国2-解锁=vmess,xsjhl.xyz,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:doyg.xsjhl.xyz 
 do英国3-解锁=vmess,xsjhl.xyz,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:doyg.xsjhl.xyz
@@ -38,12 +38,12 @@ do英国3-解锁=vmess,xsjhl.xyz,2082,username=56099bc1-8046-48a0-b130-43351cc6a
 do印度1-解锁=vmess,xsjhl.xyz,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:doyd.xsjhl.xyz 
 do印度2-解锁=vmess,xsjhl.xyz,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:doyd.xsjhl.xyz 
 do印度3-解锁=vmess,xsjhl.xyz,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:doyd.xsjhl.xyz 
-do德国1-解锁=vmess,.xsjhl.xyz,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:dodg.xsjhl.xyz 
-do德国2-解锁=vmess,.xsjhl.xyz,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:dodg.xsjhl.xyz 
-do德国3-解锁=vmess,.xsjhl.xyz,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:dodg.xsjhl.xyz 
-do荷兰1-解锁=vmess,.xsjhl.xyz,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:dohl.xsjhl.xyz 
-do荷兰2-解锁=vmess,.xsjhl.xyz,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:dohl.xsjhl.xyz 
-do荷兰3-解锁=vmess,.xsjhl.xyz,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:dohl.xsjhl.xyz 
+do德国1-解锁=vmess,xsj520.top,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:dodg.xsjhl.xyz 
+do德国2-解锁=vmess,xsj520.top,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:dodg.xsjhl.xyz 
+do德国3-解锁=vmess,xsj520.top,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:dodg.xsjhl.xyz 
+do荷兰1-解锁=vmess,xsj520.top,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:dohl.xsjhl.xyz 
+do荷兰2-解锁=vmess,xsj520.top,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:dohl.xsjhl.xyz 
+do荷兰3-解锁=vmess,xsj520.top,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:dohl.xsjhl.xyz 
 op美国1-解锁=vmess,xsjhl.xyz,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:opus.xsjhl.xyz 
 op美国2-解锁=vmess,xsjhl.xyz,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:opus.xsjhl.xyz 
 op美国3-解锁=vmess,xsjhl.xyz,2082,username=56099bc1-8046-48a0-b130-43351cc6a07e,vmess-aead=true,tfo=true,udp-relay=true,ws=true,ws-path=/?ed=2048,ws-headers=Host:opus.xsjhl.xyz 
