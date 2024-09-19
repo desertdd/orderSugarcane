@@ -164,7 +164,7 @@
       "type": "shadowsocks",
       "tag": "广东移动",
       "server": "tunnel-07312159.520300.xyz",
-      "server_port": 33823,
+      "server_port": 17018,
       "method": "aes-256-gcm",
       "password": ":jaWO19UXySjeb4bWDLDI0Pq0xfrclmT566vmS3d4litF",
       "multiplex": {
