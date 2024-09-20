@@ -93,6 +93,7 @@
         "url-test",
         "reality|U5Ua.love@xray.com",
         "广东移动",
+        "江苏移动",
         "广东香港专线",
         "测试|rQfD.love@xray.com_1",
         "测试|rQfD.love@xray.com_2",
@@ -119,6 +120,7 @@
       "outbounds": [
         "reality|U5Ua.love@xray.com",
         "广东移动",
+         "江苏移动",
         "广东香港专线",
         "测试|rQfD.love@xray.com_1",
         "测试|rQfD.love@xray.com_2",
@@ -165,6 +167,17 @@
       "tag": "广东移动",
       "server": "tunnel-07312159.520300.xyz",
       "server_port": 17018,
+      "method": "aes-256-gcm",
+      "password": ":jaWO19UXySjeb4bWDLDI0Pq0xfrclmT566vmS3d4litF",
+      "multiplex": {
+        "enabled": true
+      }
+    },
+{
+      "type": "shadowsocks",
+      "tag":  "江苏移动",
+      "server": "tunnel-08301515.520300.xyz",
+      "server_port": 10364,
       "method": "aes-256-gcm",
       "password": ":jaWO19UXySjeb4bWDLDI0Pq0xfrclmT566vmS3d4litF",
       "multiplex": {
