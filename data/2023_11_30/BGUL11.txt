@@ -18,6 +18,7 @@ enhanced-mode-by-rule = true
 [Proxy]
 DIRECT = direct
 广东移动 = ss, tunnel-07312159.520300.xyz, 17018, encrypt-method = aes-256-gcm, password = jaWO19UXySjeb4bWDLDI0Pq0xfrclmT566vmS3d4litF
+江苏移动 = ss, tunnel-08301515.520300.xyz, 10364, encrypt-method = aes-256-gcm, password = jaWO19UXySjeb4bWDLDI0Pq0xfrclmT566vmS3d4litF
 广东香港专线 = ss, gdhk1-07312200.520300.xyz, 33823, encrypt-method = aes-256-gcm, password = jaWO19UXySjeb4bWDLDI0Pq0xfrclmT566vmS3d4litF
 测试|rQfD.love@xray.com_1 = vmess, gcore.com, 443, username = 397bdc3b-9204-48d7-9003-5360864eecff, ws = true, tls = true, vmess-aead = false, ws-path = /majb, ws-headers = Host:"distant.sugarcane.cyou", skip-cert-verify = true, sni = gcore.com, tfo = false, sni = gcore.com
 测试|rQfD.love@xray.com_2 = vmess, kx-speedtest.tools.gcore.com, 443, username = 397bdc3b-9204-48d7-9003-5360864eecff, ws = true, tls = true, vmess-aead = false, ws-path = /majb, ws-headers = Host:"distant.sugarcane.cyou", skip-cert-verify = true, sni = kx-speedtest.tools.gcore.com, tfo = false, sni = kx-speedtest.tools.gcore.com
